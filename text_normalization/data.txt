@@ -1,0 +1,3 @@
+hello my naem is rajrajeshwarikhatawate   
+If the      optional argument       count is      given, only the first count occurrences are
+replaced.
